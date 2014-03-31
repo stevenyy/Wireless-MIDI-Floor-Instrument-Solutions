@@ -6,7 +6,7 @@ This is a project our team created for HackDuke 2013. This project was built wit
 For video demo, please click:
 http://youtu.be/AT6CdKfhdF8
 
-For detailed description of the project, please click below:
+For other pictures of the project, please click below:
 
-https://www.hackerleague.org/hackathons/hackduke-1/hacks/wireless-midi-floor-instrument-solutions
+https://www.dropbox.com/sh/1habnxt7dms084d/VA-8vIeBE5
 
